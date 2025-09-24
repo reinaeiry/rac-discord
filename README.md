@@ -25,11 +25,12 @@ You can invite the bot with Administrator permissions using your application Cli
 
 1. In the Developer Portal, open your application.
 2. On the **General Information** page, copy the **Application ID**. This is your Client ID.
-3. Build the invite URL using this pattern and replace `CLIENT_ID_HERE` with your Client ID:
+3. Enable "Message Content Intent" On the Bot Page
+4. Build the invite URL using this pattern and replace `CLIENT_ID_HERE` with your Client ID:
 
     https://discord.com/oauth2/authorize?client_id=CLIENT_ID_HERE&scope=bot&permissions=8
 
-4. Open the URL in your browser and select your server to invite the bot.
+5. Open the URL in your browser and select your server to invite the bot.
 
 # Configuration
 
