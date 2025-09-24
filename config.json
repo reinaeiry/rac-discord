@@ -1,0 +1,6 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "logsDir": "C:/Users/Eiry/My Games/ArmaReforgerWorkbench/logs",
+  "staffRoleIds": ["SSTAFFROLEID1", "STAFFROLEID2 and so on"],
+  "scanIntervalSeconds": 30
+}
