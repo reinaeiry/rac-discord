@@ -1,6 +1,8 @@
 # Raven Log Watcher Bot
 
 Raven Log Watcher is a Discord bot that monitors Arma Reforger server log files and reports Raven Anti-Cheat detections to a Discord server. It can automatically watch for new detections and it supports manual searching by player name.
+<img width="950" height="950" alt="813E0798-EF6B-46D8-AB6E-B188B6D00945" src="https://github.com/user-attachments/assets/bab7cd33-3586-4d90-9dcc-0642f8723557" />
+
 
 # Prerequisites
 
