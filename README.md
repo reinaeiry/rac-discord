@@ -93,7 +93,7 @@ Searches existing detections for a username. If the username is omitted, all det
 
 - Lines containing `totalScore=18.75` are ignored as these are stated as false positives by the Anti-Cheat Creator.
 - The bot deduplicates detections it has already sent.
-- The bot reads directly from `script.log` files under the path provided in `logsDir`.
+- The bot reads directly from log files files under the path provided in `logsDir`.
 
 ## Security
 
