@@ -46,7 +46,7 @@ Create a `config.json` file in the project root. Example:
 ## Field descriptions
 
 - `token`: Your bot token from the Developer Portal.
-- `logsDir`: Absolute path to the Reforger logs directory that contains your servers logs directory, change this to your own servers directory.
+- `logsDir`: Absolute path to the Reforger logs directory that contains your servers logs directory, change this to your own servers directory, ensure any backslashes (\) are changed to forward slashes (/).
 - `staffRoleIds`: Array of Discord role IDs that are allowed to run the commands. Server administrators are always allowed, one or more, minimum of one.
 - `scanIntervalSeconds`: Default scan interval in seconds. Allowed range is 15-300 seconds.
 
